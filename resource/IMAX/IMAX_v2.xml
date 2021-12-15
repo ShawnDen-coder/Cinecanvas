@@ -1,0 +1,2270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SubtitleReel xmlns="http://www.smpte-ra.org/schemas/428-7/2010/DCST" xmlns:xs="http://www.w3.org/2001/schema">
+<Id>urn:uuid:c4f3147e-6e4c-4af9-a8bd-df2e42427540</Id>
+<ContentTitleText>CY_R1 - zh - zh</ContentTitleText>
+<AnnotationText>DCDM subtitle file</AnnotationText>
+<IssueDate>2021-12-14T14:04:34+08:00</IssueDate>
+<ReelNumber>1</ReelNumber>
+<Language>zh</Language>
+<EditRate>24 1</EditRate>
+<TimeCodeRate>24</TimeCodeRate>
+<StartTime>00:00:00:00</StartTime>
+<!--Supply font with file name: 29e1dffb-cbfb-4728-ad6e-dd7fd58e5b81-->
+<LoadFont ID="SimHei">urn:uuid:29e1dffb-cbfb-4728-ad6e-dd7fd58e5b81</LoadFont>
+<!--Supply font with file name: 7792e031-5067-4e4d-8055-5c48da612039-->
+<LoadFont ID="Arial">urn:uuid:7792e031-5067-4e4d-8055-5c48da612039</LoadFont>
+<SubtitleList>
+<Font ID="SimHei" Color="FFFFFFFF" Weight="normal" Size="36" Effect="shadow" EffectColor="FF000000" AspectAdjust="1.00">
+<Subtitle SpotNumber="1" TimeIn="00:01:45:03" TimeOut="00:01:46:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">阿勇</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">A-Yong!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="2" TimeIn="00:01:46:06" TimeOut="00:01:48:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你去哪里啊 阿勇</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">A-Yong! Where are you going?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="3" TimeIn="00:01:52:17" TimeOut="00:01:55:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">截至一月二十二日二十四时</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">As of midnight Jan. 22</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="4" TimeIn="00:01:55:00" TimeOut="00:01:57:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">国家卫健委 收到</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">the National Health Commission received</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="5" TimeIn="00:01:57:03" TimeOut="00:01:59:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">国内二十五个省区市</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">from 25 provinces and municipalities</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="6" TimeIn="00:01:59:02" TimeOut="00:02:01:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">累计报告新型冠状病毒</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">reports of new corona virus infection</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="7" TimeIn="00:02:01:04" TimeOut="00:02:04:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">感染的肺炎确诊病例五百七十一例</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">a total of 571 confirmed cases</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="8" TimeIn="00:02:04:18" TimeOut="00:02:06:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">其中重症九十五例</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">of which 95 cases are critical</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="9" TimeIn="00:02:07:11" TimeOut="00:02:09:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我们叫了四个小时的车</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We've waited four hours</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="10" TimeIn="00:02:09:11" TimeOut="00:02:10:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">都没有人敢去</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">No one would pick us up</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="11" TimeIn="00:02:11:05" TimeOut="00:02:13:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">一个二个的都往后躲</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Everyone's avoiding us</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="12" TimeIn="00:02:13:12" TimeOut="00:02:14:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你们这些医生</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You doctors</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="13" TimeIn="00:02:14:21" TimeOut="00:02:17:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">为什么要冲到前头 替别人卖命啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How come you are always on the front line?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="14" TimeIn="00:02:18:05" TimeOut="00:02:19:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">反正老子不信邪</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Whatever, I'm not scared</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="15" TimeIn="00:02:20:09" TimeOut="00:02:22:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">生死由命 富贵在天</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Life or death, fame and fortune, it's all fate</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="16" TimeIn="00:02:25:01" TimeOut="00:02:28:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">紧急通知 武汉长江隧道将暂时关闭</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Emergency alert : the Yangtze Tunnel will be temporarily closed</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="17" TimeIn="00:02:29:03" TimeOut="00:02:32:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">请在现场工作人员的指挥下 有序撤离隧道</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Please follow directions and evacuate calmly</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="18" TimeIn="00:02:32:21" TimeOut="00:02:34:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我跟你说了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I told you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="19" TimeIn="00:02:34:07" TimeOut="00:02:36:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不要当着客人的面和酒店纠缠</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">don't argue in front of the guests</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="20" TimeIn="00:02:37:14" TimeOut="00:02:38:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">先换一个</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Just find another hotel</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="21" TimeIn="00:02:38:15" TimeOut="00:02:40:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">换一个能够接受武汉人的酒店</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">that would accept guests from Wuhan</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="22" TimeIn="00:02:40:13" TimeOut="00:02:41:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">星级价位同档次</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">in the same price range</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="23" TimeIn="00:02:42:02" TimeOut="00:02:44:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赶快把他们两个搞回来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Get the two of them back quickly</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="24" TimeIn="00:02:45:08" TimeOut="00:02:47:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">君君还有三个多月就要生了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Junjun is due in three months</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="25" TimeIn="00:02:48:04" TimeOut="00:02:50:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不老老实实在屋里养胎</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">She should have stayed home</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="26" TimeIn="00:02:50:04" TimeOut="00:02:52:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">挺个肚子满世界耍</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">not traveling to the other side of the world</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="27" TimeIn="00:02:52:11" TimeOut="00:02:54:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你个当妈的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You are her mother</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="28" TimeIn="00:02:54:01" TimeOut="00:02:55:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还助纣为虐</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">now you are helping them stay away?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="29" TimeIn="00:02:55:20" TimeOut="00:02:58:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你莫吵了好不好</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Stop yelling</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="30" TimeIn="00:02:58:12" TimeOut="00:03:02:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我这世界各地有十五个团 都困住回不来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I have 15 tour groups who are stuck right now</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="31" TimeIn="00:03:02:07" TimeOut="00:03:04:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你让我处理下工作好不好</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Let me deal with this mess</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="32" TimeIn="00:03:04:12" TimeOut="00:03:06:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你搞清楚一点 是五千 不是五百</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey let's be clear, it's 5000, not 500</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="33" TimeIn="00:03:06:20" TimeOut="00:03:07:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">刘亚兰</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Liu Yalan</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="34" TimeIn="00:03:07:17" TimeOut="00:03:09:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">老子跟你说正事儿</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am talking to you!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="35" TimeIn="00:03:09:03" TimeOut="00:03:11:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你不要吵了 好不好</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Please don't yell</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="36" TimeIn="00:03:21:02" TimeOut="00:03:21:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">个板马</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">God damn it!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="37" TimeIn="00:03:22:02" TimeOut="00:03:23:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">什么时候了 你还添堵</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What the hell are you doing?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="38" TimeIn="00:03:23:15" TimeOut="00:03:24:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你不会开车回家去</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Go home if you don't know how to drive!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="39" TimeIn="00:03:25:15" TimeOut="00:03:26:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你说什么</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Are you talking to me?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="40" TimeIn="00:03:26:20" TimeOut="00:03:28:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你下来 来来来 你下来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Get out of the car, come on, get out!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="41" TimeIn="00:03:28:16" TimeOut="00:03:30:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你就像个苕</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You idiot</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="42" TimeIn="00:03:47:07" TimeOut="00:03:48:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">妈</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Mom</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="43" TimeIn="00:03:48:16" TimeOut="00:03:50:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">哎 我在超市</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Yes, I'm at the market</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="44" TimeIn="00:03:50:20" TimeOut="00:03:51:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">菜不多了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">There's hardly anything fresh left</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="45" TimeIn="00:03:52:17" TimeOut="00:03:53:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">藕 藕</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Lotus root, lotus root</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="46" TimeIn="00:03:54:22" TimeOut="00:03:55:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">等一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hold on a minute</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="47" TimeIn="00:03:57:15" TimeOut="00:03:58:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">没抢到藕</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The lotus roots are all gone</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="48" TimeIn="00:03:59:14" TimeOut="00:04:01:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">没抢到就没抢到</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">It's all right</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="49" TimeIn="00:04:01:11" TimeOut="00:04:02:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赶快回来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Just come home</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="50" TimeIn="00:04:02:20" TimeOut="00:04:04:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">外面不安全</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">It's not safe out there</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="51" TimeIn="00:04:04:11" TimeOut="00:04:05:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">好 好</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Okay okay</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="52" TimeIn="00:04:07:00" TimeOut="00:04:07:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">受疫情影响</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Due to the outbreak</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="53" TimeIn="00:04:07:21" TimeOut="00:04:09:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">离汉通道即将关闭</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">all transportation in and out of Wuhan will be shut down</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="54" TimeIn="00:04:09:07" TimeOut="00:04:11:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">现场迎来了大批退票人员</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Many passengers are demanding refunds</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="55" TimeIn="00:04:11:12" TimeOut="00:04:13:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">具体情况</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">More details ......</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="56" TimeIn="00:04:13:09" TimeOut="00:04:14:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对不起</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Excuse me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="57" TimeIn="00:04:14:11" TimeOut="00:04:16:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我姑娘从深圳回来还可以吗</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Can my daughter still come back from Shenzhen?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="58" TimeIn="00:04:16:04" TimeOut="00:04:16:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对不起</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Excuse me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="59" TimeIn="00:04:17:00" TimeOut="00:04:17:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">非常抱歉</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am sorry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="60" TimeIn="00:04:17:17" TimeOut="00:04:19:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">十点以后所有离汉通道将会关闭</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">all transportation will be shut down by 10am</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="61" TimeIn="00:04:19:19" TimeOut="00:04:22:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">她不是离汉的 她是回来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">She's not leaving Wuhan, she's coming back in</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="62" TimeIn="00:04:22:07" TimeOut="00:04:23:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">建议不回汉</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">It's best that she doesn't</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="63" TimeIn="00:04:23:09" TimeOut="00:04:24:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">啥时候开呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">When will transportation resume?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="64" TimeIn="00:04:24:11" TimeOut="00:04:27:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">明天 后天 大后天总得有个时间吧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Tomorrow? The day after? There's got to be a date</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="65" TimeIn="00:04:27:04" TimeOut="00:04:28:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">非常抱歉现在还在等通知</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am sorry we must wait for further notice</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="66" TimeIn="00:04:28:21" TimeOut="00:04:29:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">暂时不知道</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We don't know at the moment</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="67" TimeIn="00:04:30:16" TimeOut="00:04:31:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">您需要退票吗</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Do you need a refund?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="68" TimeIn="00:04:31:18" TimeOut="00:04:32:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我不退怎么办</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What else can I do?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="69" TimeIn="00:04:32:23" TimeOut="00:04:34:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">好 您稍等</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Okay, please wait for a moment</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="70" TimeIn="00:04:34:05" TimeOut="00:04:35:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对不起啊 对不起</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am sorry, I am sorry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="71" TimeIn="00:04:35:23" TimeOut="00:04:36:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对不起</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am sorry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="72" TimeIn="00:04:37:17" TimeOut="00:04:38:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">您的票已退</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Your ticket is canceled</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="73" TimeIn="00:04:38:10" TimeOut="00:04:40:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">钱会全额退还到您的账户</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">and you'll be refunded in full</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="74" TimeIn="00:04:40:04" TimeOut="00:04:41:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还不全额 还扣钱</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Of course in full! It's not my fault</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="75" TimeIn="00:05:00:08" TimeOut="00:05:01:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">谢谢你啊师傅</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Thank you so much sir</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="76" TimeIn="00:05:01:12" TimeOut="00:05:03:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我也不知道 给你多少合适</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I don't know how much to pay you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="77" TimeIn="00:05:03:12" TimeOut="00:05:05:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这个时候不谈钱 不谈钱</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't worry about money, not now</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="78" TimeIn="00:05:05:06" TimeOut="00:05:06:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你们下班</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">When you finish working</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="79" TimeIn="00:05:06:00" TimeOut="00:05:06:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我们最近不回去了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We won't be going home for a while</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="80" TimeIn="00:05:06:21" TimeOut="00:05:07:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">保护家人</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">need to protect our families</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="81" TimeIn="00:05:09:19" TimeOut="00:05:10:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对对对</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Yes you are right</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="82" TimeIn="00:05:11:20" TimeOut="00:05:12:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你别下车</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Please don't get out of the car</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="83" TimeIn="00:05:13:13" TimeOut="00:05:14:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这个病毒蛮狠</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The virus is really tough</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="84" TimeIn="00:05:15:08" TimeOut="00:05:16:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">千万注意</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Please be careful</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="85" TimeIn="00:05:16:18" TimeOut="00:05:17:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">谢谢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Thank you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="86" TimeIn="00:05:18:16" TimeOut="00:05:19:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这不行 这不行</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">No, no, please don't</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="87" TimeIn="00:05:19:11" TimeOut="00:05:21:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你晚上回去 好好消下毒</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Make sure to disinfect before going home</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="88" TimeIn="00:05:23:13" TimeOut="00:05:24:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">快走 快走</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You have to hurry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="89" TimeIn="00:05:24:10" TimeOut="00:05:25:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">谢谢了啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Thank you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="90" TimeIn="00:05:25:04" TimeOut="00:05:25:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">谢谢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Thank you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="91" TimeIn="00:05:25:13" TimeOut="00:05:26:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">注意防护啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Take care of yourself</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="92" TimeIn="00:05:39:03" TimeOut="00:05:39:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">阿勇</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">A-Yong!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="93" TimeIn="00:05:39:18" TimeOut="00:05:42:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">马上封城了 你到底跑哪儿去了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The city is shutting down, where are you going?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="94" TimeIn="00:05:42:07" TimeOut="00:05:43:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赶快回家</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hurry home</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="95" TimeIn="00:06:06:11" TimeOut="00:06:10:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">武汉市新型冠状病毒感染的肺炎疫情</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Given the situation of new corona virus in Wuhan</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="96" TimeIn="00:06:10:03" TimeOut="00:06:12:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">防控指挥部发布通告</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">the Emergency Response Center announces</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="97" TimeIn="00:06:12:19" TimeOut="00:06:16:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">自二零二零年一月二十三日十时起</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">as of 10 o'clock on January 23</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="98" TimeIn="00:06:17:11" TimeOut="00:06:22:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">武汉市全市城市公交 地铁 轮渡</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Wuhan public transport, including buses, subways and ferries</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="99" TimeIn="00:06:22:08" TimeOut="00:06:24:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">长途客运暂停运营</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">all operations are suspended</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="100" TimeIn="00:06:25:16" TimeOut="00:06:29:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">无特殊原因 市民不要离开武汉</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">all residents are asked not to travel except for special circumstances</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="101" TimeIn="00:06:29:17" TimeOut="00:06:34:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">机场 火车站 离汉通道暂时关闭</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Airports and train stations will also be closed temporarily</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="102" TimeIn="00:07:08:14" TimeOut="00:07:10:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">城都封了 哪个去送啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The city's shut down, who are doing the deliveries?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="103" TimeIn="00:07:10:23" TimeOut="00:07:12:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">兄弟</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey Man</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="104" TimeIn="00:07:12:02" TimeOut="00:07:13:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">看一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Take a look</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="105" TimeIn="00:07:13:12" TimeOut="00:07:14:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">拿着拿着</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Take this, take this</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="106" TimeIn="00:07:16:04" TimeOut="00:07:17:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来 支持一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Help me out here</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="107" TimeIn="00:07:17:02" TimeOut="00:07:17:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">啥东西</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What's this?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="108" TimeIn="00:07:18:12" TimeOut="00:07:19:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">英雄帖</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Flyers for volunteers</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="109" TimeIn="00:07:19:18" TimeOut="00:07:21:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">广招天下英豪</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Heros are needed</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="110" TimeIn="00:07:23:00" TimeOut="00:07:23:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">勇哥啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">A-Yong</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="111" TimeIn="00:07:23:18" TimeOut="00:07:24:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">封城了还发传单</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Why bother? The whole city is shut</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="112" TimeIn="00:07:26:03" TimeOut="00:07:27:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">九八年特大洪水</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Remember the Flood of '98?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="113" TimeIn="00:07:27:19" TimeOut="00:07:30:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">南北夹击 倾泄三镇</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Wuhan was completely under water</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="114" TimeIn="00:07:30:08" TimeOut="00:07:31:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">洪水来了我们要干嘛</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What did we do then?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="115" TimeIn="00:07:31:23" TimeOut="00:07:32:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">要跑</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Run away?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="116" TimeIn="00:07:33:18" TimeOut="00:07:34:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">鬼扯</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Bullshit</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="117" TimeIn="00:07:34:17" TimeOut="00:07:35:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">跑不脱</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">There was nowhere to run</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="118" TimeIn="00:07:36:00" TimeOut="00:07:36:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">哎 勇哥我看一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">A-Yong, let me take one</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="119" TimeIn="00:07:36:21" TimeOut="00:07:38:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">病毒就像洪水</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The virus is just like the flood</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="120" TimeIn="00:07:38:14" TimeOut="00:07:40:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">医生在守江堤</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Doctors are protecting the dam</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="121" TimeIn="00:07:40:00" TimeOut="00:07:41:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我们要干什么</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What can we do?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="122" TimeIn="00:07:42:19" TimeOut="00:07:43:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">扛沙袋</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We can help carry sandbags</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="123" TimeIn="00:07:45:04" TimeOut="00:07:45:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来来来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Come on, people</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="124" TimeIn="00:07:47:02" TimeOut="00:07:47:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">拿着</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Pass these around</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="125" TimeIn="00:07:47:22" TimeOut="00:07:49:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这是什么</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What's this?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="126" TimeIn="00:07:49:03" TimeOut="00:07:49:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来 张意博</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Come on, Zhang Yibo</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="127" TimeIn="00:07:50:10" TimeOut="00:07:52:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你看一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Take a look</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="128" TimeIn="00:07:52:11" TimeOut="00:07:53:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来 帮我传一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Pass it around</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="129" TimeIn="00:07:53:18" TimeOut="00:07:56:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">江城大疫 危在旦夕</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Our hometown is under siege</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="130" TimeIn="00:07:56:02" TimeOut="00:07:57:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">英雄不问出处</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You too can be a hero</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="131" TimeIn="00:07:58:01" TimeOut="00:08:00:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">但肯拔刀相助</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">If you are willing</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="132" TimeIn="00:08:00:07" TimeOut="00:08:02:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">现招募天下豪杰</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We are looking for heros</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="133" TimeIn="00:08:02:10" TimeOut="00:08:04:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">第一 单身独居的优先</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">First, singles preferred,</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="134" TimeIn="00:08:04:20" TimeOut="00:08:06:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">无后顾之忧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">no family concerns</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="135" TimeIn="00:08:07:11" TimeOut="00:08:08:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">愿意签的 欢迎</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">If you sign up, welcome</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="136" TimeIn="00:08:09:03" TimeOut="00:08:10:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不愿意签的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">If you don't</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="137" TimeIn="00:08:10:03" TimeOut="00:08:10:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">也不丢人</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">no pressure</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="138" TimeIn="00:08:11:01" TimeOut="00:08:13:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">第二 戴口罩消毒</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Second, always wear a mask and disinfect</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="139" TimeIn="00:08:13:04" TimeOut="00:08:15:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">逞能犯苕是作死</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Stupidity is not heroism</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="140" TimeIn="00:08:15:08" TimeOut="00:08:18:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">第三 微信群不准聊天</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Third, no chitchat in the group</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="141" TimeIn="00:08:18:12" TimeOut="00:08:20:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">违者除名 永不录用</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You'll be kicked out if you break the rules</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="142" TimeIn="00:08:20:23" TimeOut="00:08:23:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">本人自愿签下承诺书</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am signing under my own free will</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="143" TimeIn="00:08:23:05" TimeOut="00:08:24:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">无论生死 义无反顾</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">prepared to die for the cause</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="144" TimeIn="00:08:24:23" TimeOut="00:08:26:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">奋战到底 绝不服输</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">never give up, never surrender</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="145" TimeIn="00:08:27:02" TimeOut="00:08:29:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这是哪个写的 政府</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Who drafted this? The government?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="146" TimeIn="00:08:29:20" TimeOut="00:08:30:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">政府</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The government</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="147" TimeIn="00:08:30:17" TimeOut="00:08:32:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你级别有点高啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Your aim is a little high</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="148" TimeIn="00:08:34:06" TimeOut="00:08:34:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I did!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="149" TimeIn="00:08:35:04" TimeOut="00:08:35:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="150" TimeIn="00:08:37:02" TimeOut="00:08:38:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">那怎么算钱呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How do we get paid?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="151" TimeIn="00:08:38:18" TimeOut="00:08:39:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">志愿者</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Volunteers</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="152" TimeIn="00:08:40:03" TimeOut="00:08:42:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">救灾的解放军要钱吗</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Are soldiers paid for disaster relief?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="153" TimeIn="00:08:42:15" TimeOut="00:08:44:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你又瞒着嫂子逞能犯苕</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You must be doing this behind your wife's back</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="154" TimeIn="00:08:44:17" TimeOut="00:08:45:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我跟你说</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I tell you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="155" TimeIn="00:08:45:11" TimeOut="00:08:46:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你再这样下去</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">If you keep this up</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="156" TimeIn="00:08:46:15" TimeOut="00:08:48:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">嫂子让你跪搓衣板</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Your wife is going to make you suffer</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="157" TimeIn="00:08:52:22" TimeOut="00:08:54:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">人在江湖 靠什么</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">For a man, what's the most important thing?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="158" TimeIn="00:08:56:03" TimeOut="00:08:57:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">义字当先</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Courage</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="159" TimeIn="00:08:58:04" TimeOut="00:09:00:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">病毒我都不怕 我怕老婆</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am not afraid of the virus, or my wife</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="160" TimeIn="00:09:00:12" TimeOut="00:09:01:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我跟你说</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I tell you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="161" TimeIn="00:09:01:06" TimeOut="00:09:02:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你要去 自己去</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You go ahead if you want to</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="162" TimeIn="00:09:02:20" TimeOut="00:09:04:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我还要赚钱养娃</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I have my kid to think about</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="163" TimeIn="00:09:04:17" TimeOut="00:09:06:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我不去白送死</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I'm not dying for the cause</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="164" TimeIn="00:09:07:14" TimeOut="00:09:08:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">莫笑</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't laugh now</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="165" TimeIn="00:09:08:23" TimeOut="00:09:11:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">事情搞大了 哪个都跑不脱</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">If the virus rages on, no one can escape</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="166" TimeIn="00:09:13:08" TimeOut="00:09:14:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Come on</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="167" TimeIn="00:09:14:23" TimeOut="00:09:15:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来 拿着拿着</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Come on</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="168" TimeIn="00:09:16:00" TimeOut="00:09:16:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">来哈</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Come on</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="169" TimeIn="00:09:19:07" TimeOut="00:09:20:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">喂</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hello</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="170" TimeIn="00:09:20:08" TimeOut="00:09:23:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">是红星连锁店的李老板 是吧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Are you Mr. Li, the owner of Red Star Grocery chain?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="171" TimeIn="00:09:23:14" TimeOut="00:09:24:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我是志愿者阿勇</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am volunteer A-Yong</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="172" TimeIn="00:09:25:03" TimeOut="00:09:26:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">今天不是年三十嘛</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Today is New Year's Eve</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="173" TimeIn="00:09:26:11" TimeOut="00:09:27:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我们想给医务工作者</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We want to organize a holiday dinner</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="174" TimeIn="00:09:27:22" TimeOut="00:09:29:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">组织一些年夜饭</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">for the health workers</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="175" TimeIn="00:09:29:17" TimeOut="00:09:30:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你看你能不能帮忙</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Would you help us?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="176" TimeIn="00:09:30:14" TimeOut="00:09:31:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你是志愿者</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You? A volunteer?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="177" TimeIn="00:09:31:23" TimeOut="00:09:33:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我还劳动模范呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't try to swindle me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="178" TimeIn="00:09:33:06" TimeOut="00:09:34:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">再敢打来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Believe me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="179" TimeIn="00:09:34:07" TimeOut="00:09:36:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">老子让你在公安局看春晚信不信</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I'll report you to the police</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="180" TimeIn="00:09:37:18" TimeOut="00:09:38:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你好</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hello</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="181" TimeIn="00:09:38:19" TimeOut="00:09:41:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">是江南医疗品商店</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Is this Jiangnan Pharmacy?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="182" TimeIn="00:09:41:10" TimeOut="00:09:43:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我是志愿者阿勇</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am Volunteer A-Yong</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="183" TimeIn="00:09:43:03" TimeOut="00:09:44:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">请问一下 你们可不可以</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Please may I ask for a favor</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="184" TimeIn="00:09:44:08" TimeOut="00:09:45:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">滚远点</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Stop calling</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="185" TimeIn="00:09:47:19" TimeOut="00:09:50:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">滚远点 滚远点</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Go away, go away</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="186" TimeIn="00:09:54:03" TimeOut="00:09:54:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">喂 爸爸</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hi, Dad!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="187" TimeIn="00:09:54:21" TimeOut="00:09:56:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">喂 你妈的电话打不通</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hi! I'm trying to reach your mom</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="188" TimeIn="00:09:57:06" TimeOut="00:09:58:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">她怎么不接电话呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How come she won't answer?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="189" TimeIn="00:09:59:01" TimeOut="00:10:00:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">她把你拉黑了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">She's blocked your calls</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="190" TimeIn="00:10:01:06" TimeOut="00:10:02:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你跑出去那么长时间</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You were gone for so long</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="191" TimeIn="00:10:02:17" TimeOut="00:10:04:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">妈妈都要被你气死了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Mom is really upset</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="192" TimeIn="00:10:04:18" TimeOut="00:10:06:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">爸爸 你搞什么去了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Dad, what are you doing?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="193" TimeIn="00:10:07:03" TimeOut="00:10:08:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你什么时候回家啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">When are you coming home?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="194" TimeIn="00:10:09:04" TimeOut="00:10:10:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我就是</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am just</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="195" TimeIn="00:10:10:23" TimeOut="00:10:12:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">做志愿者嘛</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">volunteering</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="196" TimeIn="00:10:13:00" TimeOut="00:10:14:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">就接送一下医护</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">driving doctors and nurses</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="197" TimeIn="00:10:15:03" TimeOut="00:10:17:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">做志愿者 那是做好事啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Volunteering? That's great!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="198" TimeIn="00:10:17:23" TimeOut="00:10:18:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你跟妈妈说</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You go tell your mom</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="199" TimeIn="00:10:19:07" TimeOut="00:10:20:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">妈 妈</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Mom Mom</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="200" TimeIn="00:10:21:02" TimeOut="00:10:22:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我爸是当英雄去了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Dad is a hero</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="201" TimeIn="00:10:23:00" TimeOut="00:10:24:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我不说</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I don't care</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="202" TimeIn="00:10:24:07" TimeOut="00:10:25:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">英雄又不缺他一个</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Why does he have to be a hero?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="203" TimeIn="00:10:25:20" TimeOut="00:10:26:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">呆头呆脑的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">So stupid</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="204" TimeIn="00:10:26:20" TimeOut="00:10:28:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">他以为他的武术能打得过病毒啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Does he think his Kungfu can beat the virus?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="205" TimeIn="00:10:29:17" TimeOut="00:10:31:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不说不说不说嘛 老婆</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Oh please sweetheart</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="206" TimeIn="00:10:31:23" TimeOut="00:10:34:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">今天是大年三十</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">It's New Year's Eve</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="207" TimeIn="00:10:34:20" TimeOut="00:10:35:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">新年快乐</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Happy New Year</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="208" TimeIn="00:10:35:22" TimeOut="00:10:37:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">一点都不快乐</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am not happy at all</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="209" TimeIn="00:10:37:07" TimeOut="00:10:38:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">滚一边去</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Go away</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="210" TimeIn="00:10:57:10" TimeOut="00:10:58:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">兄弟</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey man</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="211" TimeIn="00:10:58:23" TimeOut="00:11:00:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">新年快乐</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Happy New Year</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="212" TimeIn="00:11:00:21" TimeOut="00:11:02:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">新年快乐</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Happy New Year</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="213" TimeIn="00:12:13:05" TimeOut="00:12:16:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">儿子 你在做什么啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Son, what are you doing?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="214" TimeIn="00:12:17:08" TimeOut="00:12:20:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你妈消气了吗</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Has Mom calmed down?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="215" TimeIn="00:12:28:04" TimeOut="00:12:30:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还没 她年夜饭都没吃</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">No, she didn't even eat dinner</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="216" TimeIn="00:12:47:04" TimeOut="00:12:49:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">墨卫侠更新了啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Is the new installment of Superhero Mowei out?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="217" TimeIn="00:12:50:16" TimeOut="00:12:52:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">是的爸爸</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Yes Dad</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="218" TimeIn="00:12:52:08" TimeOut="00:12:54:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你好造业啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You are in trouble</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="219" TimeIn="00:12:54:03" TimeOut="00:12:55:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">墨卫侠拯救世界</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Superhero Mowei has his girl</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="220" TimeIn="00:12:55:20" TimeOut="00:12:58:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还有个小姐姐陪他走天涯</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">when he's saving the world</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="221" TimeIn="00:12:58:13" TimeOut="00:13:00:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你得罪了我妈</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You made mom mad</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="222" TimeIn="00:13:00:09" TimeOut="00:13:02:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">那就只有你一个人了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You are all alone</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="223" TimeIn="00:13:03:12" TimeOut="00:13:06:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">所以你才要帮你妈 多做些事情</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I know. You should help Mom</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="224" TimeIn="00:13:07:15" TimeOut="00:13:10:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我不在家 你不要光玩</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am not home, you are the man of the house</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="225" TimeIn="00:13:11:08" TimeOut="00:13:14:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我没玩 我刚帮我妈洗完衣服</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Yeah, I just helped her with laundry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="226" TimeIn="00:13:15:14" TimeOut="00:13:17:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">爸爸你看</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Look Dad</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="227" TimeIn="00:13:20:06" TimeOut="00:13:21:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">狗日的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You little shit</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="228" TimeIn="00:13:24:13" TimeOut="00:13:26:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">爸爸你看 这个好玩吧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Dad look at this</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="229" TimeIn="00:13:26:19" TimeOut="00:13:29:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还不睡 小孩不能熬夜</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Go to bed, it's late</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="230" TimeIn="00:13:29:16" TimeOut="00:13:30:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">快睡</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hurry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="231" TimeIn="00:13:30:22" TimeOut="00:13:33:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">快睡觉 莫惹你妈生气</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Go to bed, listen to your mother</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="232" TimeIn="00:13:33:11" TimeOut="00:13:34:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">哦</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Okay</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="233" TimeIn="00:13:36:21" TimeOut="00:13:38:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">那我睡了啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Good night</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="234" TimeIn="00:13:38:06" TimeOut="00:13:39:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你注意安全啊 爸爸</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Take care of yourself, Dad</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="235" TimeIn="00:13:39:20" TimeOut="00:13:40:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">拜拜</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Bye-bye</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="236" TimeIn="00:13:55:12" TimeOut="00:13:56:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赵虎</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Zhao Hu</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="237" TimeIn="00:13:56:13" TimeOut="00:13:57:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">勇哥</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">A-Yong</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="238" TimeIn="00:13:57:02" TimeOut="00:13:57:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赵虎呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Where is Zhao Hu?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="239" TimeIn="00:13:58:07" TimeOut="00:13:58:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赵虎</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Zhao Hu</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="240" TimeIn="00:14:00:19" TimeOut="00:14:01:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">东西拿出来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Give it back</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="241" TimeIn="00:14:01:21" TimeOut="00:14:02:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">什么东西</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="242" TimeIn="00:14:02:15" TimeOut="00:14:03:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">东西拿出来 莫装</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You know what, give it back!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="243" TimeIn="00:14:03:17" TimeOut="00:14:04:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">什么东西啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't know what you are talking about</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="244" TimeIn="00:14:04:19" TimeOut="00:14:05:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我搓火</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Damn it!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="245" TimeIn="00:14:06:19" TimeOut="00:14:08:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">救援物资也可以拿</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How can you steal disaster relief supplies?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="246" TimeIn="00:14:08:13" TimeOut="00:14:09:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">蛋白粉去哪了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What happened to the protein powder?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="247" TimeIn="00:14:09:21" TimeOut="00:14:10:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你给我说清楚</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey, let's be clear</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="248" TimeIn="00:14:10:19" TimeOut="00:14:12:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">谁说是我拿的了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Who told you that I took it?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="249" TimeIn="00:14:12:09" TimeOut="00:14:14:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我没证据 我查不到你头上</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I have solid evidence</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="250" TimeIn="00:14:15:01" TimeOut="00:14:15:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">把东西拿出来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Just give it back</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="251" TimeIn="00:14:15:17" TimeOut="00:14:17:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我不跟你计较 听到没</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">and I'll let it go this time</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="252" TimeIn="00:14:17:02" TimeOut="00:14:17:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不要逼我</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't push me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="253" TimeIn="00:14:19:01" TimeOut="00:14:20:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">拿出来 听到没</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Listen, just give it back</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="254" TimeIn="00:14:20:15" TimeOut="00:14:21:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你放开我</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Leave me alone</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="255" TimeIn="00:14:21:11" TimeOut="00:14:22:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">听到没</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You heard me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="256" TimeIn="00:14:22:13" TimeOut="00:14:24:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">放开 你放开</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Let go of me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="257" TimeIn="00:14:24:16" TimeOut="00:14:25:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">好</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Alright</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="258" TimeIn="00:14:25:07" TimeOut="00:14:25:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你说</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Tell me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="259" TimeIn="00:14:25:23" TimeOut="00:14:28:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你要不揩油水 你脸上的N95哪儿来的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Where did you get your N95 mask then?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="260" TimeIn="00:14:28:17" TimeOut="00:14:30:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我脑袋系在裤腰带上了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Damn it, I am risking my life here</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="261" TimeIn="00:14:30:13" TimeOut="00:14:32:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">拿你几箱蛋白粉怎么了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What if I took a few cases of protein powder?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="262" TimeIn="00:14:34:07" TimeOut="00:14:35:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赵虎</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Zhao Hu</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="263" TimeIn="00:14:35:15" TimeOut="00:14:37:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">天天医院里头跑啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You go by the hospitals every day</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="264" TimeIn="00:14:37:22" TimeOut="00:14:39:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">没看到吗</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Haven't you seen</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="265" TimeIn="00:14:39:02" TimeOut="00:14:42:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">医生 护士 拿命在拼哦</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">how the doctors and nurses risk their lives?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="266" TimeIn="00:14:42:17" TimeOut="00:14:45:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">蛋白粉是给他们提高免疫力的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The protein powder can boost their immune system</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="267" TimeIn="00:14:45:07" TimeOut="00:14:46:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你身强体壮的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You're strong as an ox</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="268" TimeIn="00:14:46:21" TimeOut="00:14:48:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你拿走心不亏吗</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't you feel guilty stealing from them?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="269" TimeIn="00:14:48:16" TimeOut="00:14:50:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我亏心</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I feel guilty?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="270" TimeIn="00:14:50:07" TimeOut="00:14:52:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我天天提货送货 跑多少地方</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I make daily delivery to all these dangerous places</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="271" TimeIn="00:14:52:18" TimeOut="00:14:54:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我得见多少人</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How many people do I come into contact with?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="272" TimeIn="00:14:54:03" TimeOut="00:14:56:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我难道不需要免疫力</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't I need to boost my immune system too?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="273" TimeIn="00:14:56:18" TimeOut="00:14:57:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你别跟我胡扯</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Don't talk nonsense</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="274" TimeIn="00:14:57:23" TimeOut="00:14:59:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">东西拿出来</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Give it back</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="275" TimeIn="00:14:59:10" TimeOut="00:15:00:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">要不然我对你不客气听到没</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Give it back or else</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="276" TimeIn="00:15:00:19" TimeOut="00:15:01:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你还来是吧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Or else what?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="277" TimeIn="00:15:02:16" TimeOut="00:15:03:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">给我松手</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Let go of me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="278" TimeIn="00:15:12:02" TimeOut="00:15:13:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">算了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Alright</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="279" TimeIn="00:15:14:02" TimeOut="00:15:15:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">个板马</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Damn it!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="280" TimeIn="00:15:27:12" TimeOut="00:15:28:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我习武之人</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I know Kungfu</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="281" TimeIn="00:15:29:01" TimeOut="00:15:30:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我让你三分</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I'm not going to fight you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="282" TimeIn="00:15:33:07" TimeOut="00:15:34:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">老子不干了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I quit</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="283" TimeIn="00:15:34:21" TimeOut="00:15:36:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">什么东西啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Who do you think you are</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="284" TimeIn="00:15:36:07" TimeOut="00:15:37:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">老子来是给你面子</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am doing you a favor</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="285" TimeIn="00:15:38:07" TimeOut="00:15:39:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还真把自己当根葱了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You are not my boss</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="286" TimeIn="00:15:48:13" TimeOut="00:15:49:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">赵虎</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Zhao Hu</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="287" TimeIn="00:15:51:02" TimeOut="00:15:51:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你就是走</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Before you go</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="288" TimeIn="00:15:51:20" TimeOut="00:15:54:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你也把下午那批货接完再走</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">you are supposed to do this delivery</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="289" TimeIn="00:16:12:14" TimeOut="00:16:14:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还代表月亮消灭你</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Guardian of Justice ？</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="290" TimeIn="00:16:15:00" TimeOut="00:16:17:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你要是再不守规矩 乱发信息</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">If you send this stupid message again</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="291" TimeIn="00:16:17:03" TimeOut="00:16:18:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我代表宇宙消灭你</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am going to make you sorry</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="292" TimeIn="00:16:26:13" TimeOut="00:16:28:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还有谁会开货车</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Who else can drive a truck?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="293" TimeIn="00:16:36:13" TimeOut="00:16:37:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">看着我做什么</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What are you looking at?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="294" TimeIn="00:16:47:09" TimeOut="00:16:48:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">后来呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Then what happened?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="295" TimeIn="00:16:48:08" TimeOut="00:16:50:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">后来 他有点上头</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Then he got worked up</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="296" TimeIn="00:16:50:11" TimeOut="00:16:52:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">他一个黑虎掏心就冲过来了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">rushed up with the "the Black Tiger"</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="297" TimeIn="00:16:53:06" TimeOut="00:16:54:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">而我嘞</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">And I</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="298" TimeIn="00:16:54:12" TimeOut="00:16:56:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">只是一个二字钳阳马</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">fought back with "the Powerful Stallion"</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="299" TimeIn="00:16:57:15" TimeOut="00:17:00:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我借力发力 给他来了个釜底抽薪</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I laid him out using his own momentum</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="300" TimeIn="00:17:02:16" TimeOut="00:17:03:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你猜怎么样</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Guess what</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="301" TimeIn="00:17:03:15" TimeOut="00:17:04:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">怎么样</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="302" TimeIn="00:17:05:16" TimeOut="00:17:07:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">一米九几的个子啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">He's nearly 2 meters tall</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="303" TimeIn="00:17:08:01" TimeOut="00:17:09:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">库嚓一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey-yah!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="304" TimeIn="00:17:09:04" TimeOut="00:17:10:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">就趴到地上了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">flat on the ground</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="305" TimeIn="00:17:10:14" TimeOut="00:17:12:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">爸爸你好威风啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Dad, you are cool!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="306" TimeIn="00:17:12:13" TimeOut="00:17:15:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你老爸 像不像你看的那个墨卫侠啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Doesn't Dad look like your Superhero Mowei?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="307" TimeIn="00:17:15:22" TimeOut="00:17:17:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">像 蛮像</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Yes, you do!</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="308" TimeIn="00:17:17:16" TimeOut="00:17:18:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">爸</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Dad</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="309" TimeIn="00:17:18:06" TimeOut="00:17:19:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你现在干嘛呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">What are you doing now?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="310" TimeIn="00:17:19:20" TimeOut="00:17:22:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我在高速路口接货</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I am waiting to pick up supplies at the check point</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="311" TimeIn="00:17:22:01" TimeOut="00:17:22:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">哦</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Okay</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="312" TimeIn="00:17:24:07" TimeOut="00:17:25:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">儿子啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Son</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="313" TimeIn="00:17:25:11" TimeOut="00:17:26:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">跟老爸说一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Tell me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="314" TimeIn="00:17:26:22" TimeOut="00:17:28:21" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">今年压岁钱 收了多少</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">how much did you get in "red envelops" this year?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="315" TimeIn="00:17:30:10" TimeOut="00:17:32:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我跟你商量一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Can I ask you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="316" TimeIn="00:17:33:07" TimeOut="00:17:34:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你看能不能</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">to do me a favor?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="317" TimeIn="00:17:35:09" TimeOut="00:17:36:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">借老爸用一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Can you loan me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="318" TimeIn="00:17:37:13" TimeOut="00:17:38:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你的钱呢</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">your money?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="319" TimeIn="00:17:38:17" TimeOut="00:17:41:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">哪有大人找小孩借钱的道理</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How can a grownup borrow money from a kid?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="320" TimeIn="00:17:41:15" TimeOut="00:17:43:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">谁还没个难处啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Well everyone runs into difficulties once in while</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="321" TimeIn="00:17:43:06" TimeOut="00:17:44:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">志愿者要做贡献嘛</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The volunteers are supposed to help</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="322" TimeIn="00:17:44:13" TimeOut="00:17:45:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我就把钱都捐了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I donated all of my money</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="323" TimeIn="00:17:45:22" TimeOut="00:17:47:00" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">哪晓得</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Who knew</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="324" TimeIn="00:17:47:11" TimeOut="00:17:49:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我把医生的东西给搞丢了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I lost some supplies</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="325" TimeIn="00:17:49:16" TimeOut="00:17:51:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">要补上啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I have to make up the difference</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="326" TimeIn="00:17:51:06" TimeOut="00:17:53:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">爸爸 你好夸张啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Dad, you are too much</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="327" TimeIn="00:17:53:17" TimeOut="00:17:56:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你把钱都捐了 又瞒着我妈吧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">You donated all of your money, behind mom's back?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="328" TimeIn="00:17:56:01" TimeOut="00:17:58:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">难怪我妈骂你到处逞强</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">No wonder Mom complains about you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="329" TimeIn="00:17:58:01" TimeOut="00:17:59:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">脑壳有包</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">that you've lost your mind</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="330" TimeIn="00:17:59:07" TimeOut="00:18:00:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">搞什么亏什么</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">that you are a failure</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="331" TimeIn="00:18:02:14" TimeOut="00:18:04:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你妈对我还是有些偏见的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Your mom is prejudiced against me</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="332" TimeIn="00:18:04:23" TimeOut="00:18:07:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我看我妈那是火眼金睛</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I think mom is really sharp</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="333" TimeIn="00:18:07:18" TimeOut="00:18:09:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不是 我</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">No I</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="334" TimeIn="00:18:13:04" TimeOut="00:18:15:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">淮阳翠柳</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Huaiyang Willow restaurant</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="335" TimeIn="00:18:15:09" TimeOut="00:18:17:03" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">是不是杭帮菜啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">is that Hangzhou style?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="336" TimeIn="00:18:18:12" TimeOut="00:18:22:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">不是说过吗 在志愿者群里不要聊天</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I said no chitchat in volunteer group</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="337" TimeIn="00:18:29:12" TimeOut="00:18:31:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">压岁钱这么多啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">That's a lot of pocket money</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="338" TimeIn="00:18:42:08" TimeOut="00:18:44:15" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这是我妈让我转给你的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Mom gave me the money to send to you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="339" TimeIn="00:18:56:14" TimeOut="00:18:58:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">眼看这都封城十几天了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The city as been shut down for days</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="340" TimeIn="00:18:59:01" TimeOut="00:19:01:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">前两天真是把我急死了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I have been so worried</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="341" TimeIn="00:19:01:16" TimeOut="00:19:03:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这政府的防疫物资来了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Now the government sent all these</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="342" TimeIn="00:19:03:13" TimeOut="00:19:04:14" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">放心了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I can finally relax</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="343" TimeIn="00:19:05:09" TimeOut="00:19:06:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">等一下 等一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey, hold on a moment</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="344" TimeIn="00:19:06:02" TimeOut="00:19:06:22" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">你看一下</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Look here</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="345" TimeIn="00:19:07:10" TimeOut="00:19:08:06" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我跟你说</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I tell you</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="346" TimeIn="00:19:08:07" TimeOut="00:19:09:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这些是薄的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">These are thin</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="347" TimeIn="00:19:09:20" TimeOut="00:19:10:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">那些是厚的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">These are thick</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="348" TimeIn="00:19:11:09" TimeOut="00:19:12:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这些是山东来的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">These are from Shandong Province</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="349" TimeIn="00:19:12:13" TimeOut="00:19:13:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这是厚的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">These are the thick ones</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="350" TimeIn="00:19:13:08" TimeOut="00:19:15:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对 这是厚的 要分清楚</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">We have to keep track</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="351" TimeIn="00:19:15:04" TimeOut="00:19:16:13" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">然后还有生活用品</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Then these are consumer goods</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="352" TimeIn="00:19:16:13" TimeOut="00:19:17:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这些</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">These</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="353" TimeIn="00:19:17:08" TimeOut="00:19:19:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">还有那些 都是生活用品</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">and those are consumer goods too</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="354" TimeIn="00:19:19:01" TimeOut="00:19:19:11" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">好的 好的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Okay okay</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="355" TimeIn="00:19:19:11" TimeOut="00:19:21:07" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">牙刷 牙膏 毛巾</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Tooth brush, tooth paste, hand towel</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="356" TimeIn="00:19:21:07" TimeOut="00:19:22:05" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这是一套</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">these are a set</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="357" TimeIn="00:19:22:05" TimeOut="00:19:23:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">都是齐的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Everything is accounted for</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="358" TimeIn="00:19:23:01" TimeOut="00:19:24:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">所有的货 我都分类</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">All divided by categories</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="359" TimeIn="00:19:24:09" TimeOut="00:19:25:02" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">标注好了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I've marked everything</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="360" TimeIn="00:19:25:02" TimeOut="00:19:25:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这些都是我们需要的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">These are all things we need urgently</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="361" TimeIn="00:19:26:00" TimeOut="00:19:27:09" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">真是来得太及时了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Thank goodness they are here</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="362" TimeIn="00:19:28:00" TimeOut="00:19:29:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">也就只能做这些了</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">That's all we can do</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="363" TimeIn="00:19:30:06" TimeOut="00:19:33:01" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这是货物的数量 你帮我签个字</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">The total count, please sign here</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="364" TimeIn="00:19:33:01" TimeOut="00:19:33:19" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">好的好的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">No problem</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="365" TimeIn="00:20:00:22" TimeOut="00:20:02:20" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">对面的</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Hey</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="366" TimeIn="00:20:03:20" TimeOut="00:20:05:18" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">有人没</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Anyone there</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="367" TimeIn="00:20:06:19" TimeOut="00:20:09:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">出来吵个架撒</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Come out, let's talk</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="368" TimeIn="00:20:10:11" TimeOut="00:20:12:04" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">好闷呐</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">So frustrating</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="369" TimeIn="00:20:25:03" TimeOut="00:20:27:16" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我门口 一直在过车</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">There have been ambulances passing through all the time</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="370" TimeIn="00:20:28:18" TimeOut="00:20:30:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">这得多少病人啊</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">How many patients are there?</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="371" TimeIn="00:20:30:12" TimeOut="00:20:33:08" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我这边也能看到好多救护车</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">I can see a lot of ambulances here too</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="372" TimeIn="00:20:34:21" TimeOut="00:20:39:23" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">估计是往方舱和雷神山火神山转移病人吧</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">They are probably moving patients to the isolation sites</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="373" TimeIn="00:21:37:06" TimeOut="00:21:38:10" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">老婆</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Honey</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="374" TimeIn="00:21:38:18" TimeOut="00:21:39:17" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我今天</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Today I</Text>
+</Font>
+</Subtitle>
+<Subtitle SpotNumber="375" TimeIn="00:21:39:17" TimeOut="00:21:41:12" FadeUpTime="00:00:00:00" FadeDownTime="00:00:00:00">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="14.9" Direction="ltr">我今天看到</Text>
+<Font ID="Arial" Size="34">
+<Text Hposition="0.0" Halign="center" Valign="bottom" Vposition="9.0" Direction="ltr">Today I saw</Text>
+</Font>
+</Subtitle>
+</Font>
+</SubtitleList>
+</SubtitleReel>
