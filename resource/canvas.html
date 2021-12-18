@@ -9,28 +9,34 @@
 </head>
 <body>
 
-<canvas id="myCanvas" width="2048" height="858" style="border:3px solid #ff0000;"></canvas>
+<canvas id="myCanvas" width="2048" height="1080" style="border:5px solid #ff0000;"></canvas>
 
 <script>
-
     var c = document.getElementById("myCanvas");
+    var img_s = c.getContext("2d");
     var cn = c.getContext("2d");
-
     var en = c.getContext("2d");
-    cn.textAlign = 'center';
-    cn.font = "37px SimHei";
-    cn.shadowColor = "#000000";
-    cn.fillStyle = "#000000"
-    cn.shadowBlur = 10;
-    cn.fillText("CineCanvas 预览测试", 1024, 858 - 858 * 0.1)
 
 
-    en.textAlign = 'center';
-    en.font = "34px Arial";
-    en.shadowColor = "#000000";
-    cn.fillStyle = "#000000"
-    en.shadowBlur = 10;
-    en.fillText("CineCanvas view test", 1024, 858 - 858 * 0.06);
+    var img = new Image();
+    img.onload = function () {
+        img_s.drawImage(this, 0, 0);
+
+        cn.textAlign = 'center';
+        cn.font = "37px SimHei";
+        cn.shadowColor = "#000000";
+        cn.fillStyle = "#ffffff"
+        cn.shadowBlur = 10;
+        cn.fillText("CineCanvas 预览测试", 1998/2, 1080 - 1080 * 0.1)
+
+        en.textAlign = 'center';
+        en.font = "34px Arial";
+        en.shadowColor = "#000000";
+        cn.fillStyle = "#ffffff"
+        en.shadowBlur = 10;
+        en.fillText("CineCanvas view test", 1998/2, 1080 - 1080 * 0.06);
+    }
+    img.src = "d-cinema-aspect-ratio-chart_i.1.1.full_1.1.1.png";
 
 
 </script>
