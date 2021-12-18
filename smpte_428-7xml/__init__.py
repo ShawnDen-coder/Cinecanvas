@@ -7,7 +7,6 @@ import uuid
 
 class Canvars():
     def __init__(self):
-        self._xml_version = ET.Element("xml", {"version": "1.0", "encoding": "UTF-8"})
         self.SubtitleReel = ET.Element("SubtitleReel", {"xmlns": "http://www.smpte-ra.org/schemas/428-7/2010/DCST",
                                                         "xmlns:xs": "http://www.w3.org/2001/schema"})
         self.double_font = []
@@ -18,7 +17,6 @@ class Canvars():
                             "Direction": "ltr"}
         self.effect_attrib = {"ID": "SimHei", "Color": "FFFFFFFF", "Weight": "normal", "Size": "37", "Effect": "shadow",
                               "EffectColor": "FF000000", "AspectAdjust": "1.00"}
-
 
     def creat_main(self):
         "为SubtitleReel下增加节点"
@@ -33,11 +31,12 @@ class Canvars():
         self.TimeCodeRate = ET.SubElement(self.SubtitleReel, "TimeCodeRate")
         self.StartTime = ET.SubElement(self.SubtitleReel, "StartTime")
         self.StartTime.text = "00:00:00:00"
+        for font in self.double_font:
+            self.LoadFont = ET.SubElement(self.SubtitleReel, "LoadFont", {"ID": font})
+            self.LoadFont.text = str(uuid.uuid4())
         self.SubtitleList = ET.SubElement(self.SubtitleReel, "SubtitleList")
-        self.effect_attrib.update({"ID":self.double_font[0]})
+        self.effect_attrib.update({"ID": self.double_font[0]})
         self.mainFont = ET.SubElement(self.SubtitleList, "Font", self.effect_attrib)
-
-
 
     def add_subtitle(self, text_info: list):
         text_list = text_info[-1]
@@ -46,7 +45,7 @@ class Canvars():
             subtitle.attrib.update({"SpotNumber": str(text_info[0]), "TimeIn": text_info[1], "TimeOut": text_info[2]})
             for text in text_list:
                 if text_list.index(text) >= 1 and len(self.double_font) > 1:
-                    child_font_node = ET.SubElement(subtitle,"Font",self.effect_attrib)
+                    child_font_node = ET.SubElement(subtitle, "Font", self.effect_attrib)
                     child_font_node.attrib.update({"ID": self.double_font[1]})
                     Text = ET.SubElement(child_font_node, "Text", self.text_attrib)
                     Text.text = text
@@ -64,7 +63,7 @@ def prettify(elem):
 if __name__ == '__main__':
     srt_list = srt_pase("/Users/denghui/PycharmProjects/Cinecanvas/resource/IMAX.srt")
     xml_ob = Canvars()
-    xml_ob.double_font = ["test1","test5"]
+    xml_ob.double_font = ["test1", "test5"]
     xml_ob.creat_main()
     for text in srt_list:
         xml_ob.add_subtitle(text)
