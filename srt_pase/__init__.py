@@ -22,5 +22,6 @@ def srt_pase(srt_file):
 
 
 if __name__ == '__main__':
-    x = srt_pase("/Users/denghui/PycharmProjects/Cinecanvas/resource/IMAX.srt")
-    print(x)
+    x1 = srt_pase("/Users/denghui/PycharmProjects/Cinecanvas/resource/IMAX.srt")
+    for x in x1:
+        print(x)
