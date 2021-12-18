@@ -16,12 +16,11 @@ class Canvars():
                                  "FadeUpTime": "00:00:00:00", "FadeDownTime": "00:00:00:00"}
         self.text_attrib = {"Hposition": "0.0", "Halign": "center", "Valign": "bottom", "Vposition": "0.0",
                             "Direction": "ltr"}
-        self.effect_attrib = {"ID": "SimHei", "Color": "FFFFFFFF", "Weight": "normal", "Size": "36", "Effect": "shadow",
+        self.effect_attrib = {"ID": "SimHei", "Color": "FFFFFFFF", "Weight": "normal", "Size": "37", "Effect": "shadow",
                               "EffectColor": "FF000000", "AspectAdjust": "1.00"}
-        self.SubtitleList = ET.SubElement(self.SubtitleReel, "SubtitleList")
-        self._SubtitleReel_main()
 
-    def _SubtitleReel_main(self):
+
+    def creat_main(self):
         "为SubtitleReel下增加节点"
         self.ID = ET.SubElement(self.SubtitleReel, "ID")
         self.ContentTitleText = ET.SubElement(self.SubtitleReel, "ContentTitleText")
@@ -34,12 +33,16 @@ class Canvars():
         self.TimeCodeRate = ET.SubElement(self.SubtitleReel, "TimeCodeRate")
         self.StartTime = ET.SubElement(self.SubtitleReel, "StartTime")
         self.StartTime.text = "00:00:00:00"
-        self.LoadFont = ET.SubElement(self.SubtitleReel, "LoadFont", self.effect_attrib)
+        self.SubtitleList = ET.SubElement(self.SubtitleReel, "SubtitleList")
+        self.effect_attrib.update({"ID":self.double_font[0]})
+        self.mainFont = ET.SubElement(self.SubtitleList, "Font", self.effect_attrib)
+
+
 
     def add_subtitle(self, text_info: list):
         text_list = text_info[-1]
         if text_list:
-            subtitle = ET.SubElement(self.LoadFont, "subtitle", self._subtitle_attrib)
+            subtitle = ET.SubElement(self.mainFont, "subtitle", self._subtitle_attrib)
             subtitle.attrib.update({"SpotNumber": str(text_info[0]), "TimeIn": text_info[1], "TimeOut": text_info[2]})
             for text in text_list:
                 if text_list.index(text) >= 1 and len(self.double_font) > 1:
@@ -61,9 +64,8 @@ def prettify(elem):
 if __name__ == '__main__':
     srt_list = srt_pase("/Users/denghui/PycharmProjects/Cinecanvas/resource/IMAX.srt")
     xml_ob = Canvars()
-    xml_ob.double_font = ["Sim","sim2"]
+    xml_ob.double_font = ["test1","test5"]
+    xml_ob.creat_main()
     for text in srt_list:
         xml_ob.add_subtitle(text)
-
-    # ET.dump(xml_ob.SubtitleReel)
     print(prettify(xml_ob.SubtitleReel))
