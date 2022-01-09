@@ -101,7 +101,9 @@ def main(file_path, cn_font="Source Han Sans CN", en_font="Arial", cn_font_size=
     for text_ob in text_root:
         if IsText(text_ob):
             # 判断这个节点下是否有文本节点
-            if CheckCh(GetText(text_ob)):
+            text = GetText(text_ob)
+            print(text)
+            if CheckCh(text):
                 # 判断当前的这句台词中是否含有中文，如果有那么判断这个台词为中文文本
                 SetFont(text_ob, cn_font)
                 SetOrigin(text_ob, ORIGIN_CN)
