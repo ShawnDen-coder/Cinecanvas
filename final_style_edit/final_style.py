@@ -1,12 +1,12 @@
 import xml.etree.ElementTree as ET
 
-ORIGIN_CN = {"horiz": 0, "vert": 335}
-ORIGIN_EN = {"horiz": 0, "vert": 370}
-STYLE = {"普通": "1", "粗体": "2", "斜体": "3", "粗体/斜体": "4"}
+ORIGIN_CN = {"horiz": 0, "vert": 335}  # 这里设置了中文原点的位置，参数与final中一致，已经做了转换
+ORIGIN_EN = {"horiz": 0, "vert": 370}  # 这里设置了英文原点的位置，参数与final中一致，已经做了转换
+STYLE = {"普通": "1", "粗体": "2", "斜体": "3", "粗体/斜体": "4"}  # 样式的一个字典参数，别动
 
 
 def IsFinalXml(root):
-    global FINALXML
+    global FINALXML  # 判断xml是final还是小键盘的全局参数
     appname = root.findall("./sequence/media/video/format/samplecharacteristics/"
                            "codec/appspecificdata/appname")
     if appname:
@@ -47,7 +47,7 @@ def SetFont(node, font):
 
 
 def SetFontSize(node, size):
-    """设置文本字体字号"""
+    """设置文本字体字号，这里如果是小键盘的xml会把字号的tag修正过来。"""
     fontSize_tag = node.find("./effect/parameter/[parameterid='{}']".
                              format("fontsize" if FINALXML else "size"))
     fontSize_tag.find("./parameterid").text = "fontsize"
@@ -118,7 +118,6 @@ def main(file_path, cn_font="Source Han Sans CN", en_font="Arial", cn_font_size=
 
 
 if __name__ == '__main__':
-    file = "/Users/macintosh/PycharmProjects/Cinecanvas/" \
-           "resource/final7/_20220104_BTZDMT_REF_R3_CN_.xml"
+    file = "/Users/macintosh/Desktop/Final7/Test/_20220104_BTZDMT_REF_R3_CN&EN_.xml"
     x = main(file, cn_font="SimHei")
     x.write("/Users/macintosh/Desktop/Final7/final.xml", encoding="utf-8")
