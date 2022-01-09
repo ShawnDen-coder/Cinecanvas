@@ -46,7 +46,7 @@ class Canvars():
             for text in text_list:
                 if text_list.index(text) >= 1 and len(self.double_font) > 1:
                     child_font_node = ET.SubElement(subtitle, "Font", self.effect_attrib)
-                    child_font_node.attrib.update({"ID": self.double_font[1]})
+                    child_font_node.attrib = {"ID": self.double_font[1]}
                     Text = ET.SubElement(child_font_node, "Text", self.text_attrib)
                     Text.text = text
                 else:
@@ -61,7 +61,7 @@ def prettify(elem):
 
 
 if __name__ == '__main__':
-    srt_list = srt_pase("/Users/denghui/PycharmProjects/Cinecanvas/resource/IMAX.srt")
+    srt_list = srt_pase("/Users/macintosh/PycharmProjects/Cinecanvas/resource/demo.srt")
     xml_ob = Canvars()
     xml_ob.double_font = ["test1", "test5"]
     xml_ob.creat_main()
