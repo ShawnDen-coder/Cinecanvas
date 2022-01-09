@@ -1,8 +1,7 @@
 import xml.etree.ElementTree as ET
 
-
-ORIGIN_CN = {"horiz": 0, "vert": 0.390}
-ORIGIN_EN = {"horiz": 0, "vert": 0.431}
+ORIGIN_CN = {"horiz": 0, "vert": 335}
+ORIGIN_EN = {"horiz": 0, "vert": 370}
 STYLE = {"普通": "1", "粗体": "2", "斜体": "3", "粗体/斜体": "4"}
 
 
@@ -10,8 +9,9 @@ def IsFinalXml(root):
     global FINALXML
     appname = root.findall("./sequence/media/video/format/samplecharacteristics/"
                            "codec/appspecificdata/appname")
-    if appname[0].text == "Final Cut Pro":
-        FINALXML = True
+    if appname:
+        if appname[0].text == "Final Cut Pro":
+            FINALXML = True
     else:
         FINALXML = False
 
@@ -21,6 +21,13 @@ def IsText(node):
     data = node.find("./effect/[effectid= 'Text']")
     data = data.find("./effectid").text
     return True if data == "Text" else False
+
+
+def GetXmlInfo(root):
+    global width
+    global height
+    width = int(root.find("./sequence/media/video/format/samplecharacteristics/width").text)
+    height = int(root.find("./sequence/media/video/format/samplecharacteristics/height").text)
 
 
 def GetText(node):
@@ -73,8 +80,8 @@ def SetOrigin(node, origin: dict):
     fontcolor_tag = node.find("./effect/parameter/[parameterid='origin']")
     fonthoriz_value = fontcolor_tag.find("./value/horiz")
     fontvert_value = fontcolor_tag.find("./value/vert")
-    fonthoriz_value.text = str(origin['horiz'])
-    fontvert_value.text = str(origin['vert'])
+    fonthoriz_value.text = str(origin['horiz'] * 1 / width)
+    fontvert_value.text = str(origin['vert'] * 1 / height)
     return [fonthoriz_value.text == str(origin['horiz']),
             fontvert_value.text == str(origin['vert'])]
 
@@ -89,6 +96,7 @@ def CheckCh(cn_str: str):
 def main(file_path, cn_font="Source Han Sans CN", en_font="Arial", cn_font_size=12, en_font_size=10, font_style="普通"):
     root = ET.parse(file_path)
     IsFinalXml(root)
+    GetXmlInfo(root)
     text_root = root.findall("./sequence/media/video/track/generatoritem")
     for text_ob in text_root:
         if IsText(text_ob):
@@ -110,6 +118,7 @@ def main(file_path, cn_font="Source Han Sans CN", en_font="Arial", cn_font_size=
 
 
 if __name__ == '__main__':
-    file = "/Users/macintosh/Desktop/Final7/Test/_20220104_BTZDMT_REF_R3_CN&EN_.xml"
+    file = "/Users/macintosh/PycharmProjects/Cinecanvas/" \
+           "resource/final7/_20220104_BTZDMT_REF_R3_CN_.xml"
     x = main(file, cn_font="SimHei")
     x.write("/Users/macintosh/Desktop/Final7/final.xml", encoding="utf-8")
