@@ -56,6 +56,18 @@ class Compare():
     def hant_2_hans(self,hant_str: str):
         return zhconv.convert(hant_str, 'zh-hans')
 
+    def InsterSpace(self,fan,jian):
+        fan = list(fan)
+        jian = list(jian)
+        num = 0
+        for i in jian:
+            if i.isspace():
+                fan.insert(num," ")
+            num += 1
+        return "".join(fan)
+
+
+
     def main(self):
         root_text = self.root.findall("./sequence/media/video/track/generatoritem")
         result = []
@@ -81,8 +93,7 @@ if __name__ == '__main__':
             if INT[0] == DOM[0] and INT[-1] == DOM[-1]:
                 if INT[-1]:
                     dalu = DOM[1].replace(" ","")
-                    hk = INT[1].replace(" ","")
-
-                    # print("{}".format(dalu==zhconv.convert(hk, 'zh-hans')))
-                    if dalu != zhconv.convert(hk, 'zh-hans'):
-                        print("{}------->{}------->{}".format(dalu,zhconv.convert(hk, 'zh-hans'),INT[1]))
+                    hk = zhconv.convert(INT[1].replace(" ",""),'zh-hans')
+                    if dalu == hk:
+                        y = dom.InsterSpace(INT[1],DOM[1])
+                        print("{}----->{}".format(y,DOM[1]))
