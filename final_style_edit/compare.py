@@ -53,7 +53,8 @@ class Compare():
                 return True
         return False
 
-
+    def hant_2_hans(self,hant_str: str):
+        return zhconv.convert(hant_str, 'zh-hans')
 
     def main(self):
         root_text = self.root.findall("./sequence/media/video/track/generatoritem")
@@ -65,7 +66,6 @@ class Compare():
             single.append(True) if self.CheckCh(text) else single.append(False)
             result.append(single)
         return result
-
 
 
 
